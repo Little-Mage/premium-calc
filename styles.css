@@ -8,12 +8,11 @@ h1 {
 }
 
 h3 {
-margin: 1px
+margin: 2px
 }
 
 input, label {
-    padding-top: 3px;
-    padding-bottom: 3px;
+    margin: 3px;
 }
 
 button {
