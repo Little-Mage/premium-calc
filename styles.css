@@ -7,9 +7,13 @@ h1 {
     text-align: center;
 }
 
+h3 {
+margin: 1px
+}
+
 input, label {
-    margin-top: 3px;
-    margin-bottom: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 
 button {
